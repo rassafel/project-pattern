@@ -1,5 +1,7 @@
 # Web pattern
 
+[![build](https://github.com/SamGTU-teams/project-pattern/actions/workflows/maven.yml/badge.svg)](https://github.com/SamGTU-teams/project-pattern/actions/workflows/maven.yml)
+
 ## Modules
 - Backend
   - Java
